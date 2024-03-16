@@ -1,10 +1,11 @@
-# React + Vite
+<h1>Kitap Bulma</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu projede kullanıcı istediği kitabı adını girip kitaba ulaşabilmektedir.
 
-Currently, two official plugins are available:
+<h2>Kullanılan Teknolojiler</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# kitaplik
-# kitaplik
+HTML,CSS,JS, REACT ile kodlanmıştır
+
+<h3>Ekran Görüntüsü</h3>
+
+![](kitaplik.gif)
